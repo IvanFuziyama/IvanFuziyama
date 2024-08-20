@@ -1,8 +1,7 @@
 ## Oie! Me chamo Ivan 👋
 
 <div align="center">
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuziyama&layout=donut&hide_border=false&title_color=3EBDFF&custom_title=Linguagens%20Mais%20Usadas&text_color=fff&bg_color=0d1117&langs_count=10&&hide=HTML,CSS" />
-  <img height="195px" src="https://streak-stats.demolab.com?user=IvanFuziyama&theme=dark&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
+  <img height="195px" src="https://streak-stats.demolab.com?user=IvanFuziyama&theme=dracula&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
 </div>
 
 
