@@ -1,6 +1,6 @@
 ## Oie! Me chamo Ivan 👋
 
-
+Estou estilizando ainda...  :|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <div align="center">
