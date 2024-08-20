@@ -1,5 +1,7 @@
 ## Oie! Me chamo Ivan 👋
 
+Tenho 17 anos, sou atleta federado de Tênis de Mesa. Estudo na escola Etec Professor Carmine Biagio Tundisi em Atibaia, realizando o curso de desenvolvimento de sistemas
+
 <div align="center">
   <img height="195px" src="https://streak-stats.demolab.com?user=IvanFuziyama&theme=dracula&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
 </div>
