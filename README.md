@@ -1,7 +1,7 @@
 ## Oie! Me chamo Ivan 👋
 
 
-<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <div align="center">
   <img height="195px" src="https://streak-stats.demolab.com?user=IvanFuziyama&theme=dracula&date_format=j%2Fn%5B%2FY%5D&background=0D1117&color=3EBDFF"/>
