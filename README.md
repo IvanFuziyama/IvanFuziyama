@@ -6,8 +6,8 @@ Pelo meu perfil😑, dá para perceber que sou um iniciante na programação ain
 <br><br>
 
   <div align=center>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanFuziyama&show_icons=true&theme=radical&locale=pt-br"/>
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuziyama&layout=donut&theme=radical&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanFuziyama&show_icons=true&theme=highcontrast&locale=pt-br"/>
+  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuziyama&layout=donut&theme=highcontrast&locale=pt-br"/>
   </div>
   <hr>
   
