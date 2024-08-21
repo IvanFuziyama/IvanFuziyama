@@ -1,9 +1,9 @@
-## Bem Vindo ao meu Perfil 😎
+<h1 align="center"> Bem Vindo ao meu Perfil 😎</h1>
 
 Oi👋, Meu nome é Ivan😑, tenho 17 anos🎉, sou atleta de Tênis de Mesa🏓, estou cursando DS💻(desenvolvimento de sistemas) na escola Etec Carmine Biagio Tundisi🏫 e pretendo seguir na carreira💼.
 <br>
 Pelo meu perfil, dá para perceber que sou um iniciante na programação ainda... (╯°□°）╯ ┻┻
-<br>
+<br><br>
 
   <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanFuziyama&show_icons=true&theme=radical&locale=pt-br"/>
@@ -24,3 +24,4 @@ Pelo meu perfil, dá para perceber que sou um iniciante na programação ainda..
   <a href = "mailto:ivanseiji21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+<hr>
