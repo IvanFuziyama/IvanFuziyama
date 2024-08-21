@@ -1,8 +1,8 @@
-<h1 align="center"> Bem Vindo ao meu Perfil 😎</h1>
+<h1 align="center">👽 Bem Vindo ao meu Perfil 👽</h1>
 
-Oi👋, Meu nome é Ivan😑, tenho 17 anos🎉, sou atleta de Tênis de Mesa🏓, estou cursando DS💻(desenvolvimento de sistemas) na escola Etec Carmine Biagio Tundisi🏫 e pretendo seguir na carreira💼.
+Oi👋, Meu nome é Ivan😎, tenho 17 anos🎉, sou atleta de Tênis de Mesa🏓, estou cursando DS💻(desenvolvimento de sistemas) na escola Etec Carmine Biagio Tundisi🏫 e pretendo seguir na carreira💼.
 <br>
-Pelo meu perfil👽, dá para perceber que sou um iniciante na programação ainda... (╯°□°）╯ ┻┻
+Pelo meu perfil😑, dá para perceber que sou um iniciante na programação ainda... (╯°□°）╯ ┻┻
 <br><br>
 
   <div align=center>
