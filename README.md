@@ -10,7 +10,7 @@ Pelo meu perfil😑, dá para perceber que sou um iniciante na programação ain
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuziyama&layout=donut&theme=highcontrast&locale=pt-br"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=IvanFuziyama&theme=dark&date_format=j%2Fn%5B%2FY%5D&theme=highcontrast&locale=pt-br"/> 
   </div>
-  <hr>
+ 
   
 <div align="center" style="display: inline_block">
   <img align="center" alt="JsS height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
