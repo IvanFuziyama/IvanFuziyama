@@ -7,10 +7,10 @@ Pelo meu perfil😑, dá para perceber que sou um iniciante na programação ain
 
   <div align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IvanFuziyama&show_icons=true&theme=highcontrast&locale=pt-br"/>
+    <br>
   <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFuziyama&layout=donut&theme=highcontrast&locale=pt-br"/>
   </div>
- 
-  
+ <br>
 <div align="center" style="display: inline_block">
   <img align="center" alt="JsS height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
