@@ -4,13 +4,11 @@
 - <strong>🎉Idade:</strong> 19 anos
 - <strong>👨‍🎓Formação:</strong> Desenvolvimento de Sistemas - ETEC Prof. Carmine Biagio Tundisi (2024)
 - <strong>💻Cursando:</strong> Análise e Desenvolvimento de Sistemas - FATEC Jornalista Omair Fagundes de Oliveira (1º semestre)
-- <strong>🎯Estudando:</strong> JavaScript
 
 <h2>🔎Tecnologias que eu utilizo:</h2>
   <p align="center"><br>
     <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,git,github,figma,vscode&theme=dark" />
   </p>
-<br>
 
 <h2>📊Status do GitHub:</h2>
 <br>
@@ -31,3 +29,4 @@
     <a href="https://www.linkedin.com/in/ivan-fuziyama-96237a33b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </p>
 
+<p>Atualizado 25/04/2026</p>
