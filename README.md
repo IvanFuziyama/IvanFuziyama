@@ -8,7 +8,7 @@
 <strong>🏠 - Cidade:</strong> Atibaia/SP;<br> 
 <strong>🧑‍💻 - Cursando:</strong> Análise e Desenvolvimento de Sistemas na FATEC Jornalista Omair Fagundes de Oliveira (2º semestre);<br> 
 <strong>🧑‍🎓 - Formação:</strong> ETEC Prof. Carmine Biagio Tundisi (2024) - Desenvolvimento de Sistemas;<br> 
-<strong>📖 - Sobre:</strong> Sou estudante de Análise e Desenvolvimento de Sistemas e tenho interesse em desenvolvimento de software. Atualmente, estou aprofundando meus conhecimentos em JavaScript e buscando evoluir através de estudos e projetos práticos.
+<strong>📖 - Sobre:</strong> Atualmente, estou aprofundando meus conhecimentos em JavaScript e buscando evoluir através de estudos e projetos.
 
 <br clear="right">
 
