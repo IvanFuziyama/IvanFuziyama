@@ -4,7 +4,7 @@
 
 <br>
 
-<strong>🎉 - Idade:</strong> 19 anos;<br> 
+<strong>🎉 - Idade:</strong> 20 anos;<br> 
 <strong>🏠 - Cidade:</strong> Atibaia/SP;<br> 
 <strong>🧑‍💻 - Cursando:</strong> Análise e Desenvolvimento de Sistemas na FATEC Jornalista Omair Fagundes de Oliveira (2º semestre);<br> 
 <strong>🧑‍🎓 - Formação:</strong> ETEC Prof. Carmine Biagio Tundisi (2024) - Desenvolvimento de Sistemas;<br> 
@@ -15,7 +15,7 @@
 <h2 align="center">🔎 Tecnologias e Ferramentas</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,css,html,nodejs,git,github,figma,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,css,html,typescript,nodejs,git,github,figma,vscode&theme=dark" />
 </p>
 
 <br>
@@ -27,5 +27,5 @@
 </p>
 
 <p align="center">
-  Atualizado em 18/08/2026
+  Atualizado em 26/09/2026
 </p>
